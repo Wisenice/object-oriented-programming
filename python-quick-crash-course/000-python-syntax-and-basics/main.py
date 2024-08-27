@@ -19,3 +19,4 @@ print(name, age, height)
 
 print(f'Name: {name}\nAge: {age}\nHeight: {height}\nIs Student: {isStudent}\nIs Instructor: {isInstructor}')
 print(f'Name Type: {type(name)}\nAge Type: {type(age)}\nHeight Type: {type(height)}\nIs Student Type: {type(isStudent)}\nIs Instructor: {type(isInstructor)}')
+print('There was a boy named')
